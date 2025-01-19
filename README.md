@@ -31,39 +31,37 @@ Bu projede, LC Waikiki web sitesinin temel işlevselliklerini otomatik olarak te
    - Şifre: `password123`
 
 
-1. **Kategorilerden aşağıdaki adımlar takip edilir:**
+3. **Kategorilerden aşağıdaki adımlar takip edilir:**
    - Çocuk & Bebek > Kız Çocuk (6-14 YAŞ) > Mont ve Kaban
 
 
-2. **Sol taraftaki filtreleme bölümünden şu filtreler uygulanır:**
+4. **Sol taraftaki filtreleme bölümünden şu filtreler uygulanır:**
    - Beden: 5-6, 6, 6-7
    - Renk: Bej
 
 
-2. **Sıralama:**
+5. **Sıralama:**
    - Sıralama menüsünden "En Çok Satanlar" seçeneği tercih edilir.
 
-1. **Ürün Detayı:**
+6. **Ürün Detayı:**
    - Listeleme sonucunda ilk sıradaki dördüncü ürünün detay sayfasına gidilir.
    - Bedeni tükenmemiş bir ürün seçilir ve sepete eklenir.
 
-   4. **Sepet Doğrulama:**
+7. **Sepet Doğrulama:**
    - Speetim sayfasına gidilir.
    - Sepetteki ürünün **adı**, **rengi** ve **adeti** kontrol edilir.
    - Ödeme tutarı, toplam ürün tutarı ile karşılaştırılır.
 
 
-3. **Favorilere Ekleme:**
+8. **Favorilere Ekleme:**
    - Ürün kartındaki kalp simgesine tıklanarak ürün favorilere eklenir.
 
 
 
-5. **Favoriler Kontrolü:**
+9. **Favoriler Kontrolü:**
    - "Favorilerim" bölümü kontrol edilerek ürünün listelendiği doğrulanır.
 
-
-
-![projenin çalışan ekran görüntüsü](https://github.com/user-attachments/assets/c0a6ec69-27aa-4a21-a0a0-64eff95f81be)
+![projenin çalışan ekran görüntüsü](https://github.com/user-attachments/assets/937d0f82-4fc0-43c9-8ce5-fe01d4a097d1)
 
 ---
 
